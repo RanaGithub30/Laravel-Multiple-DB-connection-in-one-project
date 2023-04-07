@@ -1,0 +1,3 @@
+1) set default database in .env file
+2) create another database credentials in .env & config\database.php
+3) create route in web.php
